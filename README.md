@@ -1,2 +1,1 @@
-# coffee-sales-dashboard
-An interactive Power BI dashboard analyzing coffee sales data with insights on revenue, profit trends, product demand, and regional performance. Includes dynamic filters, visualizations, KPI ppt, MySQL calculations doc, a video reference Youtube link and the .pbix file with dataset for easy exploration and reuse.
+<img width="1380" height="733" alt="image" src="https://github.com/user-attachments/assets/d707f1fb-eaf2-41ad-a207-169a6d90d39f" />
